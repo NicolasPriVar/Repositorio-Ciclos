@@ -1,1 +1,3 @@
-Este archive es el readme del repositorio de pruebas en Git.
+Integrantes:
+Juan Cancelado
+Nicolas Prieto
