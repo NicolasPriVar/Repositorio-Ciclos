@@ -6,5 +6,5 @@ Nicolas Prieto - Owner
 
 Se agregó esta línea.
 Respuestas
-1.
+1.¿Hay una mejor forma de trabajar con git para no tener conflictos?
 2.
