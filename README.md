@@ -5,6 +5,6 @@ Juan Cancelado - Colaborador
 Nicolas Prieto - Owner
 
 Se agregó esta línea.
-Respuestas
+Preguntas
 1.
-2.
+2.¿Qué es y cómo funciona el Pull Request?
