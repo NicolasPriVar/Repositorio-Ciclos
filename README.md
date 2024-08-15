@@ -5,6 +5,6 @@ Juan Cancelado - Colaborador
 Nicolas Prieto - Owner
 
 Se agregó esta línea.
-Respuestas
+Preguntas
 1.¿Hay una mejor forma de trabajar con git para no tener conflictos?
-2.
+2.¿Qué es y cómo funciona el Pull Request?
