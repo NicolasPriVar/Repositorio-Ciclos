@@ -1,1 +1,1 @@
-Este archive es el readme del repositorio de pruebas en Git
+Este archive es el readme del repositorio de pruebas en Git.
